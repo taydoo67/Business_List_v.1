@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Business List v.1</string>
+
+    <string-array name="business_names">
+        <item>Huslers n Gamers</item>
+        <item>Massive Dynamics</item>
+        <item>The Broke Uncles</item>
+        <item>Grill On</item>
+        <item>Ligiza InfoTech</item>
+        <item>Khentshe Media</item>
+    </string-array>
+</resources>
